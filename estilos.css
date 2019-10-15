@@ -1,0 +1,9 @@
+.imgCliente, .imgPlanta, .imgMoneda, .Prueba{
+    display: flex;
+}
+
+.data, .MateriaPrima{
+    display: flex;
+    flex-wrap: wrap;
+}
+
